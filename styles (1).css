@@ -1,0 +1,51 @@
+.Application {
+  text-align: center;
+  font-family: Lucida Sans;
+  background-image: linear-gradient(to right, pink, white);
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  color: black;
+  font-style: bold;
+  font-size: 20px;
+  padding: 5px;
+  margin: 10px;
+  border-style: dotted;
+}
+.link {
+  font-size: 18px;
+  padding: 8px;
+  margin: 10px;
+  font-family: sans-serif;
+  font-style: italic;
+  font-style: bold;
+}
+
+.content {
+  font-size: 16px;
+}
+
+.create {
+  border-style: none;
+  color: red;
+}
+.task-list {
+  padding: 10px;
+  margin: 8px;
+}
+.task-details {
+  color: red;
+}
+.footer {
+  font-size: 18px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+}
